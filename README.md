@@ -1,4 +1,4 @@
-# K-means_algorithm-cluster_analysis
+# k-means clustering analysis algorithm
 Java implements k-means clustering analysis algorithm
 
 1.按照指定的初始中心、设定的聚类数目实现聚类过程
