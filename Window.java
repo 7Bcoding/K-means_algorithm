@@ -297,7 +297,7 @@ catch  (Exception e)
 		File file = new File("jieguo.xls");
 				InputStream stream = new FileInputStream(new File("jieguo.xls"));			// 获取Excel文件对象
                Workbook rwb = Workbook.getWorkbook(stream);
-	UpdateExcel2003.updateExcel(file, 0, (i-1)*4+0, j,flower[(int)box[i][j]].x1);
+	UpdateExcel.updateExcel(file, 0, (i-1)*4+0, j,flower[(int)box[i][j]].x1);
 				UpdateExcel2003.updateExcel(file, 0, (i-1)*4+1, j,flower[(int)box[i][j]].x2);
 				UpdateExcel2003.updateExcel(file, 0, (i-1)*4+2, j,flower[(int)box[i][j]].x3);
 				UpdateExcel2003.updateExcel(file, 0, (i-1)*4+3, j,flower[(int)box[i][j]].x4);
