@@ -1,6 +1,9 @@
 # k-means clustering analysis algorithm
- k-means clustering analysis algorithm develop by Java
+
+k-means clustering analysis algorithm develop by Java
+
 Java实现k-means聚类分析算法
+
 1.按照指定的初始中心、设定的聚类数目实现聚类过程
 
 2.利用下表中数据，初始中心为第1、51、101条数据，聚类数目为3 
