@@ -1,6 +1,6 @@
 # k-means clustering analysis algorithm
 
-k-means clustering analysis algorithm develop by Java
+k-means clustering analysis algorithm developed by Java
 
 Java实现k-means聚类分析算法
 
